@@ -1,0 +1,2 @@
+WARN  2021-01-14T22:58:53.114 ..\DAQLIB\libdaq_global.cpp @ 81 hotplug capabilites is not supported on this platform.
+ 
